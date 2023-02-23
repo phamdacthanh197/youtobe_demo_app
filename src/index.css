@@ -16,7 +16,7 @@ a {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: red;
+  background-color: yellow;
   border-radius: 10px;
   height: 200px;
 }
@@ -26,12 +26,12 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
-  color: white !important;
+  background-color: yellow !important;
+  color: black !important;
 }
 
 .category-btn:hover span{
-  color: white !important;
+  color: black !important;
 }
 
 .react-player {
@@ -60,12 +60,12 @@ a {
   margin: 10px 0px;
   border-radius: 20px;
   transition: all 0.3s ease;
-  box-shadow: 5px 5px 25px red;
+  box-shadow: 5px 5px 25px yellow;
 }
 
 .MuiBox-root .custom-card {
   border-radius: 10px;
-  box-shadow: 0 0 20px red;
+  box-shadow: 0 0 20px yellow;
 }
 
 @media screen and (max-width: 900px) {

@@ -7,7 +7,7 @@ import SearchBar from "./SearchBar";
 const Navbar = () => {
 	return (
 		<Stack
-			backgroundColor="rgba(255,0,0,0.7)"
+			backgroundColor="rgba(255, 255, 0, 0.7)"
 			direction="row"
 			alignItems="center"
 			p={2}
